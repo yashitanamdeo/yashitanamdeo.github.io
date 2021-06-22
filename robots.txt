@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yashitanamdeo.github.io/sitemap/sitemap-index.xml
+Host: https://yashitanamdeo.github.io
