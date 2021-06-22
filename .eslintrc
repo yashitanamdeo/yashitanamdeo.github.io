@@ -1,0 +1,3 @@
+{
+  "extends": "@upstatement/eslint-config/react"
+}
