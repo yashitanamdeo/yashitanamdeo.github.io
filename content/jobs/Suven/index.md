@@ -13,4 +13,4 @@ url: 'https://internship.suvenconsultants.com/'
   along with sign in and sign out using Google and Facebook accounts
 - Originated a 1 page CSS Animation Static Website to demonstrate 10+ creative animations with basic stylings
 - Deployed Voter Registration Website; replica of National Voter Service Portal Form6
-- View [CERTIFICATE]()
+- View [CERTIFICATE](https://drive.google.com/file/d/1W7c94PXLUn6LM4JOJuC-hKAgOknh6-U_/view?usp=sharing)
