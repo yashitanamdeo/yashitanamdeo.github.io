@@ -1,16 +1,15 @@
 ---
 date: '2021-05-19'
 title: 'Web Development Intern'
-company: 'Suven C&T Pvt. Ltd.'
+company: 'Suven C&T'
 location: remote
 range: 'May 2021 - June 2021'
 url: 'https://internship.suvenconsultants.com/'
 ---
 
-- Directed and shaped a 365 Entertainment Website similar to Hotstar.com, using HTML5 and CSS3 in 2-
-  weeks online coding internship
-- Developed a Blogging Frontend Website similar to medium.com using core CSS3 skills with four web pages
-  along with sign in and sign out using Google and Facebook accounts
-- Originated a 1 page CSS Animation Static Website to demonstrate 10+ creative animations with basic stylings
-- Deployed Voter Registration Website; replica of National Voter Service Portal Form6
-- View [CERTIFICATE](https://drive.google.com/file/d/1W7c94PXLUn6LM4JOJuC-hKAgOknh6-U_/view?usp=sharing)
+- Directed and shaped a 365 Entertainment and Blogging Frontend Website, using HTML5 and CSS3
+- Developed a 1 page CSS Static Website and Voter Registration page with basic stylings
+- Designed and deployed 2 e-learning portals, and 2 e-commerce platforms using Bootstrap
+- Modeled an e-Food and an Alumni Management Portals during a 2-month coding internship
+- View [HTML-CSS CERTIFICATE](https://drive.google.com/file/d/1W7c94PXLUn6LM4JOJuC-hKAgOknh6-U_/view?usp=sharing)
+- View [BOOTSTRAP CERTIFICATE](https://drive.google.com/file/d/1e4Tx7ghRP06EyBlulRoT9Qi5m3EAaWtj/view?usp=sharing)
