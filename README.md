@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1
@@ -13,7 +13,7 @@
 </p> -->
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="" />
 </div>
 
 ### TL;DR
