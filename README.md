@@ -13,7 +13,7 @@
 </p> -->
 
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/demo.png" />
 </div>
 
 ### TL;DR
