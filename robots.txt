@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yashitanamdeo.github.io/sitemap.xml
-Host: https://yashitanamdeo.github.io
+Sitemap: https://vegetariancoder.github.io/sitemap.xml
+Host: https://vegetariancoder.github.io
