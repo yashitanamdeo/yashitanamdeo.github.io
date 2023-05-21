@@ -42,7 +42,7 @@ const PostTemplate = ({ data, location }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>{title} | Yashita Namdeo</title>
+        <title>{title} | Azaz Khan</title>
         <link rel="canonical" href="https://github.com/yashitanamdeo/pensieve" />
       </Helmet>
 
@@ -87,7 +87,7 @@ PostTemplate.propTypes = {
 };
 
 export const pageQuery = graphql`
-  query ($path: String!) {
+  query($path: String!) {
     markdownRemark(frontmatter: { slug: { eq: $path } }) {
       html
       frontmatter {

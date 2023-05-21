@@ -1,17 +1,17 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Azaz Khan',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Azaz Khan is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Azaz Khan, Azaz, Aizaz, azazkhan, software engineer, web developer, javascript, python, java, svvv, indore',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Azaz Khan',
+  location: 'Multan Pakistan',
+  email: 'azazkhan2682000@gmail.com',
+  github: 'https://github.com/aizaz-dev',
   twitterHandle: '@',
   socialMedia: [
     {
