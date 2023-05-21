@@ -11,12 +11,6 @@ skills:
   - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
-
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
-
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
-
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+Hello, I am a skilled and versatile full stack developer with expertise in front-end and back-end web development. With a passion for crafting robust and user-friendly applications, John leverages a strong foundation in HTML, CSS, JavaScript, and various frameworks to deliver dynamic and responsive websites. Equipped with in-depth knowledge of server-side programming languages like Python and Node.js, as well as experience in database management, I excels at creating scalable and efficient solutions. Committed to staying up-to-date with emerging technologies and industry best practices, John consistently delivers high-quality code and thrives in collaborative environments
 
 Here are a few of the other activities that I love to do!
