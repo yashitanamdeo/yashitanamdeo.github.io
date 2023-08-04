@@ -54,11 +54,20 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    npm run build
    ```
 
-1. Preview the site as it will appear once deployed
+2. Preview the site as it will appear once deployed
 
    ```sh
    npm run serve
    ```
+## OpenSSL Error Fix
+
+1. Check for `package.json`
+2. Add or change the line like below within **scripts**. For windows use `set` instead of `export`
+
+  ```sh
+  export SET NODE_OPTIONS=--openssl-legacy-provider
+```
+
 
 ## 🎨 Color Reference
 
