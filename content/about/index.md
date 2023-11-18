@@ -7,11 +7,11 @@ skills:
   - Painting
   - Crafting
   - Problem Solving
-  - Team Management
+  - Team Mansagement
   - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Omotolani Kehinde, from Indore, also known as Mini Mumbai and the Cleanest City of India.
 
 I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
 
